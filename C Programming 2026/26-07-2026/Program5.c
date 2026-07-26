@@ -1,0 +1,1 @@
+// Write program to Find weather a Number is Divisible by 5 and 11

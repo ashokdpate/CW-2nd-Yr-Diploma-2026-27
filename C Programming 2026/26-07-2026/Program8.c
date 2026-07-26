@@ -1,0 +1,1 @@
+// 2. Write  program to Print Multiplication Table of a Number using for loop
