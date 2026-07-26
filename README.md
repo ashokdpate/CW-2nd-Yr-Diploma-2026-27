@@ -1,4 +1,5 @@
-# 📘SBNM Polytechnic CW-2nd-Yr-Diploma-2026-27 Daily Lecture Notes and Codeing Problem.
+# 📘 SBNM Polytechnic CW-2nd-Yr-Diploma-2026-27 
+# 📘 Daily Lecture Notes and Codeing Problem.
 
 Welcome to the **CW-2nd-Yr-Diploma-2026-27** repository.
 
