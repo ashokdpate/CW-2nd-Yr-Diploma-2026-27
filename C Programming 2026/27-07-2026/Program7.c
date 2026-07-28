@@ -1,42 +1,4 @@
 
-#include <stdio.h>
-int main()
-{
-
-            for (int i=1;  i<=100;  i++)
-            {
-                printf("%d\n", i);
-            }
-            
-    return 0;
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /*
 
 for (initialization; condition; increment/decrement)
@@ -63,3 +25,14 @@ for (initialization; condition; increment/decrement)
 
 */
 // 1.Write a program Print Numbers from 1 to 10 using for loop
+
+
+#include <stdio.h>
+int main()
+{
+            for (int i=1;  i<=100;  i++)
+            {
+                printf("%d\n", i);
+            }           
+    return 0;
+}

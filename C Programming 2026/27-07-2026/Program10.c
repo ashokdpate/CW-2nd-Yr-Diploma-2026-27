@@ -1,1 +1,0 @@
-// Write a C programe to display sum of even numbers between 1 to 20 using for loop
