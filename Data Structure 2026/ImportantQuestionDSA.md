@@ -23,7 +23,6 @@ Arr = {44, 24, 47, 53, 89, 34, 14, 88}
 
 Q3. Draw a binary search tree using following elements: 
 35, 15, 40, 7, 100, 28, 82, 53, 25, 3
-
 Q4. Draw a binary search tree using following elements: 
 55, 35, 60, 17, 122, 428, 82, 33, 25, 43
 
