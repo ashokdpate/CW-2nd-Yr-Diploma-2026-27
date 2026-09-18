@@ -3,7 +3,7 @@
 
 # Q.2  List any four methods of sorting.
 
-# Q.3 Enlist the linear and nonlinear data structures.
+# Q.3 Difference Between the linear and nonlinear data structures.
 
 # Q.4 Write any four operations performed on data structure.  
 
