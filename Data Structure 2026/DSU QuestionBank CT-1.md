@@ -1,17 +1,18 @@
+# DSU Question Bank For CLASS TEST - 2
 
-# Q.1 State any two differences between linear and binary search.
+Q.1 State any two differences between linear and binary search.
 
-# Q.2  List any four methods of sorting.
+Q.2  List any four methods of sorting.
 
-# Q.3 Difference Between the linear and nonlinear data structures.
+Q.3 Difference Between the linear and nonlinear data structures.
 
-# Q.4 Write any four operations performed on data structure.  
+Q.4 Write any four operations performed on data structure.  
 
-# Q.5 Define searching. State the two methods of searching.
+Q.5 Define searching. State the two methods of searching.
 
-# Q.6 List any four applications of stack data structure.
+Q.6 List any four applications of stack data structure.
 
-# Q.7 Explain the term: Time Complexity.
+Q.7 Explain the term: Time Complexity.
 
 
 
